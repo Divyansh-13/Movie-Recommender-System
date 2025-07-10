@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 pandas==2.2.2
 Requests==2.32.3
-=======
 pandas==2.2.2
 Requests==2.32.3
->>>>>>> 294bb01eeb1d1642df36b6195bce7ce25c8e7024
 streamlit==1.35.0
