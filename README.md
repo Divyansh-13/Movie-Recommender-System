@@ -107,7 +107,7 @@ Movie-Recommender-System/
 
 ## 🎮 Usage
 
-1. **Launch the Application**: Run `streamlit run app.py`
+1. **Launch the Application**: Run `streamlit run app.py` or 'python -m streamlit run app.py'
 2. **Select a Movie**: Choose from the dropdown menu containing 4,809+ movies
 3. **Get Recommendations**: Click the "Recommend" button
 4. **View Results**: See top 10 similar movies with posters in a beautiful grid layout
