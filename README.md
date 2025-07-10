@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Divyansh** - [GitHub Profile](https://github.com/Divyansh-13)
 
-Project Link: [https://github.com/Divyansh-13/Movie-Recommender-System](https://github.com/Divyansh-13/Movie-Recommender-System)
+Project Link: (https://movieflixx.streamlit.app/)
 
 ## 🙏 Acknowledgments
 
